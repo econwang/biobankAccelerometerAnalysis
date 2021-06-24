@@ -1,6 +1,5 @@
 """Command line tool to extract meaningful health info from accelerometer data."""
 
-import dxpy
 import accelerometer.accUtils
 import accelerometer.accClassification
 import argparse
