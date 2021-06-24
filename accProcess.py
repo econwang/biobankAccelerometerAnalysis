@@ -13,7 +13,6 @@ import pandas as pd
 import atexit
 import warnings
 
-@dxpy.entry_point('main')
 def main():
     """
     Application entry point responsible for parsing command line requests
